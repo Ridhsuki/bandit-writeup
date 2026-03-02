@@ -79,7 +79,7 @@ ___
 
 ## Level 2 → Level 3
 
-original link: [level2](https://overthewire.org/wargames/bandit/bandit3.html)
+original link: [level2](https://overthewire.org/wargames/bandit/bandit2.html)
 
 1. Login ke ssh dengan command berikut.
 
@@ -108,7 +108,7 @@ ___
 
 ## Level 3 → Level 4
 
-original link: [level3](https://overthewire.org/wargames/bandit/bandit4.html)
+original link: [level3](https://overthewire.org/wargames/bandit/bandit3.html)
 
 1. Login ke ssh dengan command berikut.
 
@@ -142,7 +142,7 @@ ___
 
 ## Level 4 → Level 5
 
-original link: [level4](https://overthewire.org/wargames/bandit/bandit5.html)
+original link: [level4](https://overthewire.org/wargames/bandit/bandit4.html)
 ___
 ## Password untuk login
 | Level | Password |
